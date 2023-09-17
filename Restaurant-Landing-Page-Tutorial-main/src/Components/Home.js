@@ -18,7 +18,7 @@ const Home = () => {
             wellness, balance, and joy.
           </p>
           <button className="secondary-button" onClick={() => { /* Handle button click here */ }}>
-            Register <FiArrowRight />
+            Register Now <FiArrowRight />
           </button>
         </div>
         <div className="home-image-section">
